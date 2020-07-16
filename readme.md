@@ -1,4 +1,4 @@
-it clone https://https://github.com/patriciooli/DelilahPatricio
+git clone https://github.com/patriciooli/delilah3
 or download it from Github
 
 Installing dependencies:
